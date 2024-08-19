@@ -1,0 +1,198 @@
+h1{
+
+color: #111111;
+width: 969px;
+height: 256px;
+margin-left: 235px;
+gap: 0px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 56px;
+font-weight: 700;
+line-height: 64px;
+text-align: left;
+
+
+}
+
+p{
+color:#555555;
+width: 839px;
+height: 84px;
+margin-left: 235px;
+gap: 0px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 19px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+
+
+}
+
+#Autor{
+color:#000000;
+width: 303px;
+height: 20px;
+margin-left: 235px;
+gap: 0px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+font-weight: 700;
+line-height: 20px;
+text-align: left;
+
+
+
+}
+
+#Data{
+color: #000000;
+width: 226px;
+height: 16px;  
+margin-left: 235px;
+gap: 0px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+font-weight: 400;
+line-height: 16.34px;
+text-align: left;
+
+}
+
+hr{
+color: #B0AFAF;
+margin-left: 210px;
+margin-right: 210px;
+gap: 0px;
+}
+
+#Noticia1{
+color: #333333;
+width: 691px;
+height: 160px;
+margin-top: 62px;
+margin-left: 375px;
+gap: 0px;
+font-family:Arial, Helvetica, sans-serif;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+
+}
+
+ul{
+color: #A6130A;
+width: 675px;
+height: 192px;
+margin-left: 382px;
+gap: 0px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+text-align: left;
+
+}
+
+#Noticia2{
+color: #333333;
+width: 685px;
+height: 224px;
+margin-left: 375px;
+gap: 0px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+
+}
+
+#Noticia3{
+color: #333333;
+width: 683px;
+height: 128px;
+margin-left: 375px;
+gap: 0px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+
+
+}
+
+#Historia{
+color: #333333;
+width: 422px;
+height: 32px;
+margin-left: 375px;
+gap: 0px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+font-weight: 700;
+line-height: 32px;
+text-align: left;
+
+}
+
+h2{
+color: #111111;
+width: 437px;
+height: 36px;
+margin-left: 375px;
+gap: 0px;
+font-family:  Arial, Helvetica, sans-serif;
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+text-align: left;
+
+
+}
+
+#Relato{
+color: #333333;
+width: 669px;
+height: 224px;
+margin-left: 375px;
+gap: 0px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 21px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+}
+
+#Relato2{
+color:#333333;
+width: 665px;
+height: 265px;
+margin-left: 375px;
+gap: 0px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 30px;
+font-weight: 600;
+line-height: 39px;
+text-align: left;
+border-width: 0px 0px 0px 3px;
+border-color: #A6130A;
+border-style: solid;
+padding-left: 15px;
+}
+
+a{
+color: #555555;
+width: 1388px;
+height: 32px;
+margin-left: 17px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+font-weight: 400;
+line-height: 32px;
+text-align:center;
+
+
+}
